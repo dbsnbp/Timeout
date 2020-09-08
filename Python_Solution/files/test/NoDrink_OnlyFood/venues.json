@@ -1,0 +1,12 @@
+[
+    {
+        "name": "venue1",
+        "food": ["foodx1"],
+        "drinks": ["drinkx1", "drinkx2", "drinkx3"]
+    },
+    {
+        "name": "venue2",
+        "food": ["foodx2","foodx2"],
+        "drinks": ["drinkx4", "drinkx5", "drinkx6"]
+    }
+]

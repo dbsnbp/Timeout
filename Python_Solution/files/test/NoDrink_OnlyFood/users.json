@@ -1,0 +1,11 @@
+[
+  {
+    "name": "u1",
+    "wont_eat": ["food1"],
+    "drinks": ["drink1", "drink2", "drink3"]
+  },
+  {
+    "name": "u2",
+    "wont_eat": ["food2", "food3"],
+    "drinks": ["drink4", "drink5", "drink6", "drink7"]
+  }
